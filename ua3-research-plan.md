@@ -80,6 +80,27 @@ Produced in Pass 2 of Stage 1. Names what desk research the student is going to 
 
 ---
 
+## Competitive alternative — observed patterns (2026-05-14)
+
+Supplemental findings from public reviews and discussions, organized by theme.
+
+### Existing nutrition apps are often viewed as too generic
+
+- "Most apps assume one body type, one activity intensity, one metabolic profile."
+- "My recovery score in Whoop has zero influence on the calorie target MFP suggests for the day."
+
+### Existing apps are strongly associated with weight loss
+
+- "This app has helped me a lot last year losing weight and getting super toned and keeping track of my meals! This year I'm trying to bulk ... I wish it was set up a little differently, and more for my macros."
+- "I would recommend for anyone trying to lose weight."
+
+### Subscription frustration is common
+
+- "MyFitnessPal was great five years ago. Now it is bloated, aggressively paywalled features that used to be free."
+- "almost everything on the home screen is under a paywall ... they're locking Macros???"
+
+---
+
 ## Primary differentiation
 
 - **Current claim:** NutriScan gives athletes real nutritional insight without a paywall

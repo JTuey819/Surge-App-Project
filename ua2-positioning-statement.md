@@ -8,7 +8,7 @@ The statement at the top is the public-facing artifact — short, clean, one par
 
 ## Statement
 
-> Surge is a personal nutrition app built for athletes and active people who want to eat right for what they do — whether that's the gym, a sport, or staying in shape. It helps you understand what your meals are giving your body and guides you toward a diet that fits your specific goals. Unlike generic apps that treat everyone the same, Surge tailors its guidance to your activity, so you're fueling to perform.
+> For athletes and fitness-focused people trying to improve performance through better nutrition, Surge is a sports nutrition tracking app that helps users understand how their daily food choices affect performance and recovery. Unlike MyFitnessPal and other general calorie-tracking apps, our product focuses on translating sports nutrition into practical guidance tied to a user's training and activity.
 
 ---
 
@@ -19,8 +19,8 @@ Per-clause status. Mirrors the per-clause status in `UA0-PROJECT-STATUS.md`.
 - **Target customer:** evidenced by interview
 - **Need or opportunity:** evidenced by interview
 - **Product name:** refined by research
-- **Product category:** drafted from belief
-- **Key benefit:** drafted from belief
+- **Product category:** refined by research
+- **Key benefit:** evidenced by interview
 - **Primary competitive alternative:** evidenced by interview
 - **Primary differentiation:** evidenced by interview
 
@@ -34,20 +34,26 @@ One subsection per clause. Updated continuously across all five passes.
 
 ### Target customer
 
-- **Current belief:** Athletes who value the nutrition from their meals
+- **Current belief:** Athletes and fitness-focused people who actively connect nutrition to performance, recovery, or training outcomes.
 - **Basis for the belief:** Origin conversation — friend had a goal to gain weight for football season; student has personal experience with a doctor recommending eating more. Both are people with a nutrition goal but no specific plan.
 - **Evidence found:**
   - 2026-05-07: Origin conversation with student — friend (competitive athlete) had a deadline to gain weight for football season; student was told by doctor to eat more with no specific guidance
+  - 2026-05-14: Interview with Jayden (basketball athlete) showed a strong connection between food choices and sports performance. He described actively trying to avoid poor performance caused by eating badly before games.
+- **Reasoning:** The target customer was broadened from "high school athletes" to a more performance-oriented athlete segment because the underlying behavior is not age-specific — it is the desire to improve athletic outcomes through nutrition.
 - **Alternatives considered:** "Any user" — dropped because too broad to build for; "people with health conditions" — dropped because athletes feel like a more natural anchor
+- **Weaknesses / unknowns:** Current interview evidence is still mostly limited to one athlete and one sport. It is still unclear whether endurance athletes, strength athletes, recreational lifters, and other athlete types experience the same frustrations in the same way.
 - **What would change my mind:** If interviews show that athletes already have strong nutrition guidance from coaches and don't feel a gap, this clause needs to narrow or shift
 
 ### Need or opportunity
 
-- **Current belief:** Athletes have no clear roadmap for what their body actually needs — they hear generic advice ("eat more protein and vegetables") but don't know which food groups to prioritize or what nutritional values they're actually getting from their meals.
+- **Current belief:** Athletes receive vague or generic nutrition advice and struggle to translate it into concrete daily eating decisions tied to athletic performance.
 - **Basis for the belief:** Student's personal experience — doctor said "eat more" with no specifics; all available guidance is generic rather than personalized.
 - **Evidence found:**
   - 2026-05-07: Student said "I feel like I have trouble understanding which food groups I should be eating the most and the nutrition values I'm getting. All I hear is just eat more protein and vegetables."
+  - 2026-05-14: Jayden described receiving broad advice such as "eat carbs" and "avoid fast food before games," but lacked specific guidance on what to actually eat. He also described negative physical effects after eating poorly before a game and trying to course-correct afterward.
+  - 2026-05-14: Public complaints about existing nutrition apps often mention lack of adaptation to training load, recovery, or athletic context — "My recovery score in Whoop has zero influence on the calorie target MFP suggests for the day." / "Most apps assume one body type, one activity intensity, one metabolic profile."
 - **Alternatives considered:** "Athletes don't know how to track calories" — dropped because the problem is less about tracking and more about understanding what specific nutrients they need
+- **Weaknesses / unknowns:** It is still unclear whether the primary pain is lack of knowledge, tracking friction, conflicting advice, lack of motivation, inconsistency, or too much manual effort.
 - **What would change my mind:** If interviews show athletes feel well-informed by coaches or existing apps and don't feel this gap, the need clause needs to shift
 
 ### Product name
@@ -63,36 +69,46 @@ One subsection per clause. Updated continuously across all five passes.
 
 ### Product category
 
-- **Current belief:** Health and nutrition app
-- **Basis for the belief:** Student's own description — "a health app that helps users maintain a good, nutritional diet"
+- **Current belief:** Sports nutrition tracking app.
+- **Basis for the belief:** Student's own description — "a health app that helps users maintain a good, nutritional diet" — revised by research showing users compare against calorie and macro tracking apps like MyFitnessPal.
 - **Evidence found:**
   - 2026-05-07: Student described it as a health app focused on nutrition
-- **Alternatives considered:** "Fitness app" — related but fitness implies exercise; "diet app" — has weight-loss connotations that don't fit the athlete/gain-weight use case
-- **What would change my mind:** If users consistently categorize it differently when searching (e.g., search for "food tracker" or "meal planner" instead of "health app")
+  - 2026-05-14: Users currently compare solutions against calorie and macro tracking apps like MyFitnessPal. Existing apps are commonly perceived as weight-loss-oriented rather than performance-oriented. Public reviews frequently frame MyFitnessPal around dieting — "This app has helped me a lot last year losing weight ... This year I'm trying to bulk ... I wish it was set up more for my macros." / "I would recommend for anyone trying to lose weight."
+- **Alternatives considered:** "Fitness app" — related but fitness implies exercise; "diet app" — has weight-loss connotations that don't fit the athlete/gain-weight use case; "health and nutrition app" — too broad, indistinguishable from competitors
+- **Weaknesses / unknowns:** Need more evidence about whether athletes themselves think in terms of "sports nutrition" or simply "fitness tracking" and "macro tracking."
+- **What would change my mind:** If users consistently categorize it differently when searching (e.g., search for "food tracker" or "meal planner" instead of "sports nutrition")
 
 ### Key benefit
 
-- **Current belief:** Users walk away with confidence in their own body — understanding what they're eating and feeling in control of their nutrition
-- **Basis for the belief:** Student's personal articulation of what the app delivers beyond features
+- **Current belief:** Surge helps athletes understand how food choices affect performance and recovery and turns broad nutrition advice into practical daily guidance.
+- **Basis for the belief:** Student's personal articulation of what the app delivers beyond features, refined by Jayden interview.
 - **Evidence found:**
   - 2026-05-07: Student said "after using NutriScan, you'll walk away with confidence of your own body"
-- **Alternatives considered:** "You'll know your exact macro breakdown" — too feature-focused; "you'll reach your weight goal" — too outcome-specific and hard to guarantee
-- **What would change my mind:** If interviews show athletes don't describe their problem in emotional terms (confidence, control) but in purely practical ones (hitting targets, following a plan)
+  - 2026-05-14: Jayden clearly connected eating habits with athletic outcomes and described adjusting eating behavior after poor performance experiences.
+- **Alternatives considered:** "You'll know your exact macro breakdown" — too feature-focused; "you'll reach your weight goal" — too outcome-specific and hard to guarantee; "confidence in your body" — still unconfirmed as the primary emotional value
+- **Weaknesses / unknowns:** Still unclear whether users care most about simplicity, confidence, convenience, recovery, energy, body composition, or long-term performance. More interviews needed.
+- **What would change my mind:** If interviews show athletes don't describe their problem in emotional terms but in purely practical ones (hitting targets, following a plan)
 
 ### Primary competitive alternative
 
-- **Current belief:** Food scanner apps that lock useful features behind monthly subscriptions (student tried several)
-- **Basis for the belief:** Student's direct experience trying existing apps and hitting paywalls
+- **Current belief:** MyFitnessPal, generic calorie-tracking apps, coach advice, internet research, and informal nutrition habits.
+- **Basis for the belief:** Student's direct experience trying existing apps and hitting paywalls; Jayden's interview revealing coach advice as the primary current workaround.
 - **Evidence found:**
   - 2026-05-07: Student said "I've tried a couple food scanner apps that have a similar purpose but I realized that they are all paid apps and some of them require monthly subscriptions"
-- **Alternatives considered:** "General healthy eating advice" — still real but less specific than the apps; "doing nothing / winging it" — also real but the apps are the closer comparison
+  - 2026-05-14: Jayden relied primarily on broad coach guidance rather than a dedicated sports nutrition tool.
+  - 2026-05-14: Public discussions criticize existing apps for being too generic, too weight-loss-focused, or disconnected from athletic performance — "MyFitnessPal was great five years ago. Now it is bloated, aggressively paywalled features that used to be free." / "almost everything on the home screen is under a paywall ... they're locking Macros???"
+- **Alternatives considered:** "General healthy eating advice" — still real but less specific than the apps; "doing nothing / winging it" — also real and possibly the most common actual behavior
+- **Weaknesses / unknowns:** Need more evidence about what athletes actually stick with long-term, why users abandon nutrition apps, and whether athletes prefer coaches/content creators over apps.
 - **What would change my mind:** If athletes don't actually try existing apps before giving up, the real alternative might be "doing nothing" rather than paid apps
 
 ### Primary differentiation
 
-- **Current belief:** NutriScan gives athletes real nutritional insight without a paywall — built for people, not profit
-- **Basis for the belief:** Student's personal motivation: "I want to feel like I'm making the app for people rather than the money earned"
+- **Current belief:** Surge focuses specifically on translating sports nutrition into practical guidance tied to training and athletic activity rather than generic calorie counting.
+- **Basis for the belief:** Student's personal motivation refined by interview evidence — athletes understand nutrition matters but struggle to apply broad advice practically.
 - **Evidence found:**
   - 2026-05-07: Student directly stated desire to make app accessible without heavy subscription costs
-- **Alternatives considered:** "Better AI features" — dropped for now; the accessibility angle is more personal and more grounded in real experience
-- **What would change my mind:** If free/freemium model proves unsustainable or if users don't actually cite cost as the barrier to using existing apps
+  - 2026-05-14: Interview evidence suggests athletes understand nutrition matters but struggle to apply broad advice practically.
+  - 2026-05-14: Public complaints show frustration with apps that fail to adapt recommendations to activity, recovery, or training context.
+- **Alternatives considered:** "Better AI features" — dropped for now; "free/no paywall" — still relevant but not sufficient on its own since free alternatives exist
+- **Weaknesses / unknowns:** Still need stronger evidence that athletes would consistently prefer a performance-focused approach over simpler calorie tracking.
+- **What would change my mind:** If athletes consistently prefer simple calorie tracking over performance-tied guidance, or if free/freemium model proves unsustainable

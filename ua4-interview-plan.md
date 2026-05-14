@@ -102,7 +102,7 @@ Only entered after the user has confirmed the problem in their own words. If the
 - **Confirms it if:** Jayden can't name what he's specifically supposed to eat for basketball, or says his only guidance is vague
 - **Refutes it if:** Jayden has a real nutrition plan from a coach, dietitian, or app he's already happy with
 - **Complicates it if:** He gets some guidance from his coach but still feels like it's not specific enough
-- **What actually happened:** CONFIRMED. Coach told him to "eat a lot of carbs" but gave no specific foods — just "don't eat fast food before a game." He described waking up with a cold sweat after eating badly the day before, and actively trying to course-correct. Clear evidence the problem is real and felt.
+- **What actually happened:** CONFIRMED. Coach told him to "eat a lot of carbs" but gave no specific foods — just "don't eat fast food before a game." He described waking up with a cold sweat after eating badly the day before and actively trying to course-correct. Clear evidence the problem is real and felt.
 
 #### Target customer
 
@@ -110,7 +110,7 @@ Only entered after the user has confirmed the problem in their own words. If the
 - **Confirms it if:** Jayden has a concrete goal (performance, body composition, energy) that his eating is connected to
 - **Refutes it if:** He doesn't think about eating in relation to basketball at all — food and sport are completely separate in his mind
 - **Complicates it if:** He has a goal but it's not connected to nutrition — he just trains harder instead of eating differently
-- **What actually happened:** CONFIRMED AND EXPANDED. Jayden clearly connects eating to performance ("you need to know what you are eating before your game so you don't perform poorly"). Target customer refined from "competitive athletes" to "athletes and people working toward better athleticism" — the Jayden interview revealed the real issue is apps built for weight loss, not performance.
+- **What actually happened:** CONFIRMED AND EXPANDED. Jayden clearly connects eating to performance: "You need to know what you are eating before your game so you don't perform poorly." The interview suggested the issue is less about weight loss and more about performance-focused nutrition guidance. Target customer broadened from "high school athletes" to a more performance-oriented athlete segment — the underlying behavior is not age-specific.
 
 #### Primary competitive alternative
 
@@ -147,3 +147,66 @@ Only entered after the user has confirmed the problem in their own words. If the
 - **Refutes it if:** She describes a purely practical need — hitting numbers, not feeling anything in particular about it
 - **Complicates it if:** She wants confidence but defines it differently (e.g., eating "clean" vs. knowing specific nutrients)
 - **What actually happened:** [fill in after interview]
+
+---
+
+## Next moves (as of 2026-05-14)
+
+### Priority interviews
+
+Conduct more interviews with:
+- endurance athletes
+- strength athletes
+- recreational gym-goers
+- athletes from different age groups
+- people who stopped using nutrition apps
+
+Focus especially on:
+- current workarounds
+- why they abandon apps
+- moments where nutrition affects performance
+- whether they already trust another source more than apps
+
+### Workaround mapping
+
+Track what athletes currently do instead of using an app:
+- coach advice
+- TikTok / YouTube
+- MyFitnessPal
+- guessing
+- screenshots of meal plans
+- asking teammates
+- macro calculators
+- meal prep systems
+
+### Failure-pattern research
+
+Research why people stop using nutrition apps:
+- tracking fatigue
+- too much manual input
+- guilt/shame
+- inconvenience
+- obsession/burnout
+
+### Clarify the "moment of pain"
+
+Identify the situations where nutrition uncertainty becomes emotionally important:
+- before games
+- recovery periods
+- bulking/cutting
+- low-energy workouts
+- poor performance days
+- conflicting advice online
+
+### Language testing
+
+Track the exact vocabulary athletes naturally use:
+- fuel
+- macros
+- recovery
+- eating clean
+- nutrition
+- meal planning
+- performance
+
+The positioning statement should gradually shift toward the language users themselves use naturally.

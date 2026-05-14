@@ -24,13 +24,13 @@ Pass 4 — Interviews and revision
 
 One line per clause. Status values: `not started` | `drafted from belief` | `drafted-unconfirmed` | `refined by research` | `evidenced by interview` | `stable`.
 
-- Target customer: drafted from belief
-- Need or opportunity: drafted from belief
+- Target customer: evidenced by interview
+- Need or opportunity: evidenced by interview
 - Product name: refined by research
-- Product category: drafted from belief
-- Key benefit: drafted from belief
-- Primary competitive alternative: drafted from belief
-- Primary differentiation: refined by research
+- Product category: refined by research
+- Key benefit: evidenced by interview
+- Primary competitive alternative: evidenced by interview
+- Primary differentiation: evidenced by interview
 
 ## Completed checkpoints
 
@@ -38,14 +38,17 @@ One line per clause. Status values: `not started` | `drafted from belief` | `dra
 - 2026-05-07: Pass 1 — First draft (all seven clauses drafted from belief, evidence records populated)
 - 2026-05-07: Pass 2 — Research-driven refinement (name changed to Surge, differentiation sharpened to $1 one-time purchase + athlete-specific, free alternatives confirmed to exist)
 - 2026-05-07: Pass 3 — Interview planning (Jayden and Sam identified, question guide built, falsification commitments written for both interviews)
+- 2026-05-14: Pass 4 — Interview 1 complete (Jayden, basketball). Need confirmed and expanded. Target customer broadened to performance-oriented athletes. Positioning statement updated with new evidence. Competitive research patterns added.
 
 ## Known gaps
 
-- All clauses still at "drafted from belief" — need research and interviews to move to evidenced status
-- Target customer clause is broad ("athletes") — needs sharpening through research/interviews
-- Free/accessible model needs validation: do users actually cite cost as a barrier?
+- Target customer broadened but only evidenced from one sport (basketball) — need interviews with endurance athletes, strength athletes, gym-goers
+- Primary pain point still unclear: is it lack of knowledge, tracking friction, conflicting advice, or something else?
+- Key benefit "confidence" vs. "performance/recovery" — need more interviews to determine which language resonates more
+- Differentiation angle needs stronger evidence that athletes prefer performance-focused guidance over simpler calorie tracking
+- Jessica interview (gym-goer) still pending — will test whether problem extends beyond team sport athletes
 
 ## Last updated
 
-- **Date:** 2026-05-07
-- **By:** research-plan
+- **Date:** 2026-05-14
+- **By:** ua-framework
