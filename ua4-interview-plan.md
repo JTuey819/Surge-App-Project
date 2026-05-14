@@ -27,10 +27,10 @@ One subsection per planned interviewee.
 - **Why worth talking to:** Represents the gym-enthusiast segment of the target customer — active but not a team sport athlete. Good test of whether the problem extends beyond competitive sports.
 - **Clauses their input most affects:** Target customer (does the problem apply to gym-goers, not just team athletes?), Need or opportunity, Key benefit
 - **Earlyvangelist filter:**
-  - [x] Has the problem (goes to the gym regularly — nutrition is likely relevant to her goals)
-  - [ ] Knows they have the problem (unknown)
-  - [ ] Has tried to solve the problem (unknown)
-  - [ ] Is unhappy with their workaround (unknown)
+  - [x] Has the problem (actively monitors food group coverage daily — protein, dairy, fiber, vegetables)
+  - [x] Knows they have the problem (explicitly aware — thinks about whether she's hit her food groups "all the time")
+  - [x] Has tried to solve the problem (took nutrition classes; informally traces back her eating; maintains rough mental estimates for maintenance)
+  - [ ] Is unhappy with their workaround (unclear — says she's "generally okay right now"; adjusts at home when needed and doesn't express strong dissatisfaction)
 
 ---
 
@@ -130,7 +130,7 @@ Only entered after the user has confirmed the problem in their own words. If the
 - **Confirms it if:** Jessica expresses confusion or uncertainty about whether she's eating right for her gym goals
 - **Refutes it if:** She feels confident she already knows her nutrition and doesn't feel a gap
 - **Complicates it if:** She's curious but treats it as a nice-to-have, not something that actually bothers her
-- **What actually happened:** [fill in after interview]
+- **What actually happened:** COMPLICATED. The "not knowing" framing does not apply to Jessica — she's knowledgeable and self-directed. But the problem has a different shape for her: she thinks about hitting her food groups "all the time," particularly around protein, dairy, and vegetables. The issue is ongoing monitoring friction, not a knowledge gap. She traces back what she's eaten to find what she's missing and adjusts at home when possible. The problem is real, felt, and frequent — but the experience is "did I cover all my bases today?" not "what should I eat?" The original belief needs revision: the gap for gym-goers who already have nutrition knowledge is less about translation of advice and more about lightweight daily completeness-checking.
 
 #### Target customer
 
@@ -138,7 +138,7 @@ Only entered after the user has confirmed the problem in their own words. If the
 - **Confirms it if:** Jessica describes eating in relation to her gym goals — building muscle, recovery, energy — in a way that mirrors Jayden's experience
 - **Refutes it if:** Her relationship to food is completely separate from her gym routine — she just eats whatever and it doesn't feel connected
 - **Complicates it if:** The problem is real but her motivation is different from Jayden's (e.g., appearance vs. performance)
-- **What actually happened:** [fill in after interview]
+- **What actually happened:** CONFIRMED AND COMPLICATED. Jessica absolutely connects food to training: she structures meals around workout timing (carbs before, protein after), thinks deliberately about fiber and food groups throughout the day, and treats nutrition as an active practice rather than an afterthought. This confirms gym-goers belong in the target. However, her sophistication level is markedly higher than Jayden's — she has formal nutrition education, already knows roughly what her body needs, dismisses outside advice she considers uninformed. This suggests the target customer may contain two meaningfully different sub-segments: (1) the less-informed athlete who doesn't know what to eat and needs guidance (Jayden), and (2) the already-knowledgeable athlete who knows what to eat but carries the cognitive overhead of monitoring coverage (Jessica). The product may need to serve both, or choose one as the primary focus. The current positioning statement does not distinguish between them.
 
 #### Key benefit
 
@@ -146,7 +146,7 @@ Only entered after the user has confirmed the problem in their own words. If the
 - **Confirms it if:** Jessica uses words like "understand," "know," "confident," or "in control" when describing what she'd want from a nutrition tool
 - **Refutes it if:** She describes a purely practical need — hitting numbers, not feeling anything in particular about it
 - **Complicates it if:** She wants confidence but defines it differently (e.g., eating "clean" vs. knowing specific nutrients)
-- **What actually happened:** [fill in after interview]
+- **What actually happened:** COMPLICATED. Jessica already has the confidence the current benefit promises — she took nutrition classes, filters external advice, and approaches food with self-assurance. The "confidence" framing does not land for her because it describes something she already has. What she would want is different in kind: frictionless completeness-checking, not understanding. Her described behavior — tracing back what she's eaten to figure out what's missing — suggests the emotional register she'd respond to is more "reduce the mental load of what I'm already managing" than "help me understand something I don't know." This complicates the key benefit: the "confidence" framing likely resonates with less-informed users like Jayden but may feel off for the knowledgeable segment. The benefit may need to split or broaden based on which sub-segment the product is primarily built for.
 
 ---
 

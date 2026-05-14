@@ -39,10 +39,11 @@ One subsection per clause. Updated continuously across all five passes.
 - **Evidence found:**
   - 2026-05-07: Origin conversation with student — friend (competitive athlete) had a deadline to gain weight for football season; student was told by doctor to eat more with no specific guidance
   - 2026-05-14: Interview with Jayden (basketball athlete) showed a strong connection between food choices and sports performance. He described actively trying to avoid poor performance caused by eating badly before games.
-- **Reasoning:** The target customer was broadened from "high school athletes" to a more performance-oriented athlete segment because the underlying behavior is not age-specific — it is the desire to improve athletic outcomes through nutrition.
+  - 2026-05-14: Interview with Jessica (gym-goer, student's sister) confirmed the target extends beyond team sport athletes. She structures eating deliberately around training (carbs before, protein after, fiber throughout), thinks about food group coverage daily, and has formal nutrition knowledge. Gym-goers with goals are clearly in the target.
+- **Reasoning:** The target customer was broadened from "high school athletes" to a more performance-oriented athlete segment because the underlying behavior is not age-specific. Now further complicated: two distinct sub-segments are emerging — (1) less-informed athletes who don't know what to eat and need guidance (Jayden), and (2) already-knowledgeable athletes who know what to eat but carry ongoing monitoring overhead (Jessica). These may need different product angles.
 - **Alternatives considered:** "Any user" — dropped because too broad to build for; "people with health conditions" — dropped because athletes feel like a more natural anchor
-- **Weaknesses / unknowns:** Current interview evidence is still mostly limited to one athlete and one sport. It is still unclear whether endurance athletes, strength athletes, recreational lifters, and other athlete types experience the same frustrations in the same way.
-- **What would change my mind:** If interviews show that athletes already have strong nutrition guidance from coaches and don't feel a gap, this clause needs to narrow or shift
+- **Weaknesses / unknowns:** The two sub-segments (knowledge-seekers vs. monitoring-reducers) are meaningfully different. It is still unclear which is the primary user the product is built for — or whether the product can serve both without losing focus. Still need interviews with endurance athletes and strength/lifting-focused athletes.
+- **What would change my mind:** If further interviews show the knowledgeable sub-segment (Jessica) is much larger and more underserved than the less-informed sub-segment (Jayden), the framing of the product may need to shift toward monitoring convenience rather than nutritional guidance.
 
 ### Need or opportunity
 
@@ -52,9 +53,10 @@ One subsection per clause. Updated continuously across all five passes.
   - 2026-05-07: Student said "I feel like I have trouble understanding which food groups I should be eating the most and the nutrition values I'm getting. All I hear is just eat more protein and vegetables."
   - 2026-05-14: Jayden described receiving broad advice such as "eat carbs" and "avoid fast food before games," but lacked specific guidance on what to actually eat. He also described negative physical effects after eating poorly before a game and trying to course-correct afterward.
   - 2026-05-14: Public complaints about existing nutrition apps often mention lack of adaptation to training load, recovery, or athletic context — "My recovery score in Whoop has zero influence on the calorie target MFP suggests for the day." / "Most apps assume one body type, one activity intensity, one metabolic profile."
-- **Alternatives considered:** "Athletes don't know how to track calories" — dropped because the problem is less about tracking and more about understanding what specific nutrients they need
-- **Weaknesses / unknowns:** It is still unclear whether the primary pain is lack of knowledge, tracking friction, conflicting advice, lack of motivation, inconsistency, or too much manual effort.
-- **What would change my mind:** If interviews show athletes feel well-informed by coaches or existing apps and don't feel this gap, the need clause needs to shift
+  - 2026-05-14: Interview with Jessica revealed a different shape of the same need: she monitors food group coverage daily ("all the time"), traces back her eating to identify gaps, and adjusts at home when something is missing. Her problem is not lack of knowledge — it is the recurring cognitive overhead of checking coverage. She would refuse formal calorie tracking ("be miserable"). This is a distinct need mode: ongoing lightweight completeness-checking vs. Jayden's need for translation of advice into action.
+- **Alternatives considered:** "Athletes don't know how to track calories" — dropped because the problem is less about tracking and more about understanding what specific nutrients they need; "athletes lack nutritional knowledge" — partially wrong, at least for the Jessica sub-segment who has formal training
+- **Weaknesses / unknowns:** The need now has two documented flavors: (1) knowledge gap — not knowing what to eat for your sport (Jayden); (2) monitoring friction — knowing what to eat but carrying mental overhead to verify daily coverage (Jessica). It is unclear whether one product can resolve both or whether they require different design directions.
+- **What would change my mind:** If further interviews show the monitoring-friction need is predominant and the knowledge-gap need is rare, the clause framing should shift from "translate advice into action" toward "reduce the cognitive load of coverage-checking."
 
 ### Product name
 
@@ -85,9 +87,10 @@ One subsection per clause. Updated continuously across all five passes.
 - **Evidence found:**
   - 2026-05-07: Student said "after using NutriScan, you'll walk away with confidence of your own body"
   - 2026-05-14: Jayden clearly connected eating habits with athletic outcomes and described adjusting eating behavior after poor performance experiences.
-- **Alternatives considered:** "You'll know your exact macro breakdown" — too feature-focused; "you'll reach your weight goal" — too outcome-specific and hard to guarantee; "confidence in your body" — still unconfirmed as the primary emotional value
-- **Weaknesses / unknowns:** Still unclear whether users care most about simplicity, confidence, convenience, recovery, energy, body composition, or long-term performance. More interviews needed.
-- **What would change my mind:** If interviews show athletes don't describe their problem in emotional terms but in purely practical ones (hitting targets, following a plan)
+  - 2026-05-14: Interview with Jessica complicated the "confidence" framing significantly. She already has nutritional confidence — took classes, dismisses uninformed advice, has a clear self-directed approach. The benefit she'd respond to is not about gaining understanding but about reducing the mental load of monitoring what she already understands. Her described practice — tracing back her eating to find gaps — suggests the emotional value she'd want is closer to "I don't have to keep a mental tally" than "I finally understand my body."
+- **Alternatives considered:** "You'll know your exact macro breakdown" — too feature-focused; "you'll reach your weight goal" — too outcome-specific and hard to guarantee; "confidence in your body" — resonates for the less-informed sub-segment but not for already-knowledgeable users; "reduce the mental load of daily nutrition monitoring" — possible alternative framing worth testing
+- **Weaknesses / unknowns:** The "confidence" framing may bifurcate: it lands for users who lack knowledge (Jayden), but falls flat for users who already have it (Jessica). The key benefit may need to be rewritten to address both, or the product needs to choose which sub-segment to optimize for. Still need more interviews to determine which is larger and more underserved.
+- **What would change my mind:** If most interviewees describe the problem in terms of mental overhead and convenience rather than knowledge or confidence, the benefit clause should shift away from "confidence" toward friction reduction.
 
 ### Primary competitive alternative
 

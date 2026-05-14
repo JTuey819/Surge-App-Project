@@ -39,14 +39,16 @@ One line per clause. Status values: `not started` | `drafted from belief` | `dra
 - 2026-05-07: Pass 2 — Research-driven refinement (name changed to Surge, differentiation sharpened to $1 one-time purchase + athlete-specific, free alternatives confirmed to exist)
 - 2026-05-07: Pass 3 — Interview planning (Jayden and Sam identified, question guide built, falsification commitments written for both interviews)
 - 2026-05-14: Pass 4 — Interview 1 complete (Jayden, basketball). Need confirmed and expanded. Target customer broadened to performance-oriented athletes. Positioning statement updated with new evidence. Competitive research patterns added.
+- 2026-05-14: Pass 4 — Interview 2 complete (Jessica, gym-goer). Target customer confirmed to include gym-goers. Need clause complicated: two distinct need modes now documented — knowledge gap (Jayden) vs. monitoring friction (Jessica). Key benefit complicated: "confidence" framing falls flat for already-knowledgeable sub-segment. Positioning statement updated with new evidence across Target customer, Need or opportunity, and Key benefit.
 
 ## Known gaps
 
-- Target customer broadened but only evidenced from one sport (basketball) — need interviews with endurance athletes, strength athletes, gym-goers
-- Primary pain point still unclear: is it lack of knowledge, tracking friction, conflicting advice, or something else?
-- Key benefit "confidence" vs. "performance/recovery" — need more interviews to determine which language resonates more
+- Two sub-segments now documented (knowledge-seekers vs. monitoring-reducers) but product has not chosen which to optimize for — this is the most pressing open question
+- Key benefit "confidence" framing confirmed for less-informed users; needs alternative framing for knowledgeable users who already have confidence
 - Differentiation angle needs stronger evidence that athletes prefer performance-focused guidance over simpler calorie tracking
-- Jessica interview (gym-goer) still pending — will test whether problem extends beyond team sport athletes
+- Need interviews with endurance athletes and strength/lifting athletes to round out evidence beyond basketball and gym-going
+- Why users abandon nutrition apps still underdocumented — tracking fatigue, shame, inconvenience, or something else?
+- "Moment of pain" still needs sharper definition: before a game, after a low-energy workout, at the end of a day when coverage feels incomplete?
 
 ## Last updated
 
